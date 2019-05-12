@@ -1,0 +1,29 @@
+.img-circular {
+ width: 200px;
+ height: 200px;
+ background-image: url('img/50abf38e-d71f-4250-847a-828a6c10ab91.JPG');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+
+img {
+width:30%;
+height:auto;
+margin: auto;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.navbar {
+	background-color: lightyellow;
+}
+
+
+
+
+
