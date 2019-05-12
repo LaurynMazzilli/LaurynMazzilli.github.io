@@ -1,3 +1,7 @@
+body {
+	font-family: "Open Sans", Arial, sans-serif;
+}
+
 .img-circular {
  width: 200px;
  height: 200px;
@@ -24,6 +28,35 @@ margin: auto;
 }
 
 
+h3 {
+	color: grey;
+}
 
+h4 {
+	color: grey;
+	font-size:20px;
+}
+
+.card-title {
+	color: grey;
+}
+
+.card {
+	border-color:#ccc;
+}
+
+iframe {
+text-align: center;
+margin: 0 auto;
+display: block;
+width: 700px;
+height: 400px;
+}
+
+h5 {
+	color: grey;
+	font-size:20px;
+	text-align: center;
+}
 
 
